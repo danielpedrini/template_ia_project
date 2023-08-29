@@ -3,9 +3,8 @@
 ### Indice
 1. Sobre o Projeto
 2. Funcionalidades
-3. Tecnologias
-4. Instalação e uso
-5. Contato
+3. Instalação e uso
+4. Contato
 
 ### Sobre o projeto
 Aqui descreva o projeto
@@ -17,6 +16,8 @@ Aqui descreva o projeto
 ### Instalação e uso
 
 ### Contato
-Daniel Pedrini - daniel.pedrini@gmail.com
+Github: https://github.com/danielpedrini
 
-Link: [<Nome do Projeto>](link do projeto)
+LinkedIn: https://www.linkedin.com/in/daniel-pedrini
+
+E-mail: daniel.pedrini@gmail.com
