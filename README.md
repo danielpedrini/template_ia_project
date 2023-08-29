@@ -1,7 +1,7 @@
 
 # NOME DO PROJETO
 
-### Indice
+## Indice
 0. Data de execução do projeto
 1. Definição do Problema
 2. Fonte de Dados
@@ -10,19 +10,19 @@
 5. Resultados alcançados
 6. Contato
 
-### Data de execução do projeto
+## Data de execução do projeto
 
-### Definição do Problema
+## Definição do Problema
 
-### Fonte de Dados
+## Fonte de Dados
 
-### Insights
+## Insights
 
-### Modelos Aplicados
+## Modelos Aplicados
 
-### Resultados alcançados
+## Resultados alcançados
 
-### Contato
+## Contato
 **Github**: https://github.com/danielpedrini
 
 **LinkedIn**: https://www.linkedin.com/in/daniel-pedrini
