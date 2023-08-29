@@ -1,19 +1,23 @@
-# <NOME DO PROJETO>
+# NOME_DO_PROJETO
 
 ### Indice
-1. Sobre o Projeto
-2. Funcionalidades
-3. Instalação e uso
-4. Contato
+1. Definição do Problema
+2. Fonte de Dados
+3. Insights
+4. Modelos Aplicados
+5. Resultados alcançados
+6. Contato
 
-### Sobre o projeto
-Aqui descreva o projeto
 
-### Funcionalidades
-- **Funcionalidade 1**:
-- **Funcionalidade 2**:
+### Definição do Problema
 
-### Instalação e uso
+### Fonte de Dados
+
+### Insights
+
+### Modelos Aplicados
+
+### Resultados alcançados
 
 ### Contato
 Github: https://github.com/danielpedrini
