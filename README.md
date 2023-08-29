@@ -10,7 +10,7 @@
 5. Tipo de Projeto
 6. Resultados alcançados
 7. Próximos Passos 
-7. Contato
+8. Contato
 
 ## Data de execução do projeto
 Data de execução do Projeto
