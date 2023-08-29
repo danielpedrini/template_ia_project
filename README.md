@@ -1,4 +1,4 @@
-# NOME_DO_PROJETO
+# NOME DO PROJETO
 
 ### Indice
 1. Definição do Problema
