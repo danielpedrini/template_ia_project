@@ -11,9 +11,6 @@
 6. Contato
 
 ### Data de execução do projeto
-- Data Inicial:
-
-- Data Final:
 
 ### Definição do Problema
 
