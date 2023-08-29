@@ -1,6 +1,8 @@
+
 # NOME DO PROJETO
 
 ### Indice
+0. Data de execução do projeto
 1. Definição do Problema
 2. Fonte de Dados
 3. Insights
@@ -8,6 +10,10 @@
 5. Resultados alcançados
 6. Contato
 
+### Data de execução do projeto
+- Data Inicial:
+
+- Data Final:
 
 ### Definição do Problema
 
@@ -20,8 +26,8 @@
 ### Resultados alcançados
 
 ### Contato
-Github: https://github.com/danielpedrini
+**Github**: https://github.com/danielpedrini
 
-LinkedIn: https://www.linkedin.com/in/daniel-pedrini
+**LinkedIn**: https://www.linkedin.com/in/daniel-pedrini
 
-E-mail: daniel.pedrini@gmail.com
+**E-mail**: daniel.pedrini@gmail.com
