@@ -1,4 +1,3 @@
-
 # NOME DO PROJETO
 
 ## Indice
